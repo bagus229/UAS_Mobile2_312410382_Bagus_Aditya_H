@@ -10,7 +10,7 @@ Pada projek lanjutan ini terjadi perubahan terhadap tata letak dihalaman quiz. T
 
 ## UI/UX
 #### ![Gambar 1](ss/UI.png).
-Pada UI/UX terbaru warna background aplikasi di ubah menjadi warna hijau telur asin. Warna tersebut diubah karena agar tidak terlalu cerah demi kenyamanan user. Saya menambahkan quiz bahasa mandarin pada projek ini. terdapat tambahan fitur AI (pembuatan soal otomatis dan penjelasan AI). Pada halaman berhasil terdapat tambahan skor akhir dari hasil menjawab quiz. Saya juga menambhakna fitur berbicara dengan AI untuk latihan berbicara.
+Pada UI/UX terbaru warna background aplikasi di ubah menjadi warna hijau telur asin. Warna tersebut diubah karena agar tidak terlalu cerah demi kenyamanan user. Saya menambahkan quiz bahasa mandarin pada projek ini. terdapat tambahan 3 fitur AI: fitur AI pembuatan soal otomatis, penjelasan jawban quiz AI, dan latihan bicara bersama AI. Pada halaman berhasil terdapat tambahan skor akhir dari hasil menjawab quiz.
 
 ## Mockup
 #### ![Gambar 1](ss/Mockup.png).
