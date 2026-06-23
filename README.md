@@ -47,3 +47,6 @@ Mockup untuk tampilan ketika UI/UX telah diterapkan di Mobile, baik di IOS ataup
 #### ![Gambar 1](ss/clikup.png).
 Tempat untuk membuat jadwal runtutan yang ingin dilakukan dalam membuat projek ini. agar lebih terarut dan rapi dalam mengerjakannya.
 berikut adalah link clikup: https://sharing.clickup.com/90181799349/g/h/2kzm23dn-738/e2990ba65e413c9.
+
+## Link Youtube
+https://youtu.be/tCXDTqFf_S0?si=-jkKGxK6GJipl5Sm.
