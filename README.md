@@ -48,5 +48,19 @@ Mockup untuk tampilan ketika UI/UX telah diterapkan di Mobile, baik di IOS ataup
 Tempat untuk membuat jadwal runtutan yang ingin dilakukan dalam membuat projek ini. agar lebih terarut dan rapi dalam mengerjakannya.
 berikut adalah link clikup: https://sharing.clickup.com/90181799349/g/h/2kzm23dn-738/e2990ba65e413c9.
 
+## Hasil SCRUM
+1. Sprint 1
+#### ![Gambar 1](ss/gambar14.jpg).
+2. Sprint 2
+#### ![Gambar 1](ss/gambar15.jpg).
+3. Sprint 3
+#### ![Gambar 1](ss/gambar16.jpg).
+4. Sprint 4
+#### ![Gambar 1](ss/gambar17.jpg).
+5. Sprint 5
+#### ![Gambar 1](ss/gambar18.jpg).
+6. Sprint 6
+#### ![Gambar 1](ss/gambar19.jpg).
+
 ## Link Youtube
 https://youtu.be/tCXDTqFf_S0?si=-jkKGxK6GJipl5Sm.
