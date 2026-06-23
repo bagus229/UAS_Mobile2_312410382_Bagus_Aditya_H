@@ -50,17 +50,17 @@ berikut adalah link clikup: https://sharing.clickup.com/90181799349/g/h/2kzm23dn
 
 ## Hasil SCRUM
 1. Sprint 1
-#### ![Gambar 1](ss/gambar14.jpg).
+#### ![Gambar 1](ss/gambar14.png).
 2. Sprint 2
-#### ![Gambar 1](ss/gambar15.jpg).
+#### ![Gambar 1](ss/gambar15.png).
 3. Sprint 3
-#### ![Gambar 1](ss/gambar16.jpg).
+#### ![Gambar 1](ss/gambar16.png).
 4. Sprint 4
-#### ![Gambar 1](ss/gambar17.jpg).
+#### ![Gambar 1](ss/gambar17.png).
 5. Sprint 5
-#### ![Gambar 1](ss/gambar18.jpg).
+#### ![Gambar 1](ss/gambar18.png).
 6. Sprint 6
-#### ![Gambar 1](ss/gambar19.jpg).
+#### ![Gambar 1](ss/gambar19.png).
 
 ## Link Youtube
 https://youtu.be/tCXDTqFf_S0?si=-jkKGxK6GJipl5Sm.
